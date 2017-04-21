@@ -1,3 +1,4 @@
+//By Joshua Utterback
 package chai;
 
 import chesspresso.Chess;
